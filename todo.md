@@ -1,0 +1,3 @@
+- [ ] Add profile object
+- [x] add support for both https://docs.microsoft.com/en-us/dotnet/api/microsoft.xbox.services.achievements.achievementservice.updateachievementasync?view=xboxlive-dotnet-2017.11.20171204.01
+- [ ] Fix club creating & deleting - titleFamilyId

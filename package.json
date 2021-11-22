@@ -1,0 +1,22 @@
+{
+  "name": "appxbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/collection": "^0.3.2",
+    "@discordjs/form-data": "^3.0.1",
+    "@sapphire/async-queue": "^1.1.9",
+    "@xboxreplay/xboxlive-auth": "^4.0.0",
+    "abort-controller": "^3.0.0",
+    "axios": "^0.24.0",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.6"
+  }
+}
